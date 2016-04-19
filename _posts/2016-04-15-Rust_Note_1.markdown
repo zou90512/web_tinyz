@@ -93,9 +93,7 @@ racer是rust社区里面出现的一个代码补全提示工具。针对多种ID
 根据racer.exe的路径配置。设置rust源码的source/src的目录。
 博主这里设置了RUST_SRC_PATH的环境变量，所以无需手动设置Rust sources的路径
 
-
 至此，在Windows 10操作系统中使用Visual Studio 2015开发Rust的环境就搭建完成了。
-
 
 enjoy it !:)
 
