@@ -1,7 +1,7 @@
 # Site settings
 title: TinyZ's Blog
 description: '专注于网络游戏前后端技术(JAVA, PHP, Unity3D)。积累技术,记录分享。'
-url: 'https://github.com/TinyZzh'
+url: 'https://tinyzzh.github.io'
 baseurl: "/"
 rooturl: ""
 # google_analytics: 'UA-XXXXXX-X'
