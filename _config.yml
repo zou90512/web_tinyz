@@ -4,7 +4,7 @@ description: '专注于网络游戏前后端技术(JAVA, PHP, Unity3D)。积累�
 url: 'https://tinyzzh.github.io'
 baseurl: "/"
 rooturl: ""
-# google_analytics: 'UA-XXXXXX-X'
+google_analytics: 'UA-77019170-1'
 disqus_shortname: 'tinyzzh815'
 
 timezone: '+0800' #"Asia/Shanghai"
@@ -43,4 +43,4 @@ kramdown:
     coderay_line_numbers:  nil
 
 gems: ['jekyll-paginate', 'jekyll-archives']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png', 'Bootstrap.bat', 'Build.bat','baidu_verify_NWhAPY41rD.html']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png', 'Bootstrap.bat', 'Build.bat']
