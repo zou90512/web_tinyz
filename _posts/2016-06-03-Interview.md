@@ -80,6 +80,8 @@ public class SimpleSort {
 }
 ```
 
+补充于2016-06-04
+[延伸试题解决]({{site.rooturl}}/other/2016/06/04/Interview_Next.html)
 
 
 
