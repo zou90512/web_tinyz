@@ -24,7 +24,7 @@ tags: [Python]
 
 ## 安装MySQLdb
 
-初次入门就直接选择mysql相关的内容作为切入口(新手不推荐这么做)，MySQL安装越到很多坑。
+初次入门就直接选择mysql相关的内容作为切入口(新手不推荐这么做)，MySQL安装遇到很多坑。
 
 ```shell
 #> pip install MySQL-python
