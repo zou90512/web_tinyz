@@ -50,7 +50,7 @@ Glances提供多系统的多种安装途径。本文只记录笔者安装流程�
 
 对于InfluxDB相关的参数配置:
 
-```INI
+```javascript
 [influxdb]
 host=localhost
 port=8086
