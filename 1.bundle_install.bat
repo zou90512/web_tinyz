@@ -1,7 +1,7 @@
 @echo on
 
 
-jekyll server
+bundle install
 
 pause
 exit
