@@ -43,4 +43,4 @@ kramdown:
     coderay_line_numbers:  nil
 
 gems: ['jekyll-paginate', 'jekyll-archives']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png', 'Bootstrap.bat', 'Build.bat']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png', '1.bundle_install.bat', '2.jekyll_bootstrap.bat']
