@@ -8,6 +8,8 @@ tags: [GitHub, Blog]
 
 本文记录博主使用Win 10操作系统和Jekyll 3.1.2搭建GitHub Pages的过程。希望能帮助到相同有需要的朋友。
 
+**[2016-10-09补充]**[升级Jekyll到3.2]({{site.baseurl}}github/2016/10/09/Build_GitHub_Pages_Update.html)
+
 ## 基本需求
  * [GitHub](https://github.com/)账号及一个命名为{GitHub昵称}.github.io的仓库
  * Jekyll软件 [Jekyll官网](https://jekyllrb.com/), [Jekyll中文站](http://jekyllcn.com/)
