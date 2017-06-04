@@ -3,7 +3,7 @@ layout: page
 title: 为什么使用HikariCP连接池?
 date: 2016-06-05 00:47:00 +0800
 categories: [Database]
-tags: [HikariCP]
+tags: [Database, HikariCP]
 ---
 
 笔者最近在换工作的时，被面试官问数据库和连接池相关的一些问题。
