@@ -29,7 +29,7 @@ paginate: 20
 #permalink: /:year/:title/
 #markdown: kramdown  #  [rdiscount, karkdown]
 markdown: kramdown  #  [rdiscount, karkdown]
-highlighter: rouge #  [rouge, pygments]
+highlighter: pygments #  [rouge, pygments]
 
 kramdown:
   input: GFM

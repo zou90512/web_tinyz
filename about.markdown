@@ -5,17 +5,15 @@ permalink: /about/
 ---
 
 # **About Me**
- * 本名: **周灼华**
- * 英文名: **TinyZ**
- * 专注于网络游戏相关(Java, PHP, Unity3D等)技术，热爱游戏事业, 正在努力实现自我价值当中。
-
-    My name is zhuohua zhou. you can call me TinyZ.
+ * Name: **周灼华**
+ * Gender: **TinyZ**
+ * 专注于服务器(后端)、网络游戏相关(Java, PHP, Unity3D等)技术，热爱游戏事业, 正在努力实现自我价值当中。
 
 # **Contact**
  * Email: **tinyzzh815@gmail.com** (Recommend)
- * Email: zou90512@126.com
+ * Github: [TinyZzh](https://github.com/TinyZzh)
 
-微信公众号:
+# 微信公众号:
 
 ![Alt text]({{site.baseurl}}images/weixin.jpg)
 
