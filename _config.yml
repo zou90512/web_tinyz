@@ -7,7 +7,8 @@ rooturl: ""
 google_analytics: 'UA-77019170-1'
 disqus_shortname: 'tinyzzh815'
 
-timezone: '+0800' #"Asia/Shanghai"
+# timezone: '+0800' #"Asia/Shanghai"
+timezone: "Asia/Shanghai"
 
 author:
   name: 'TinyZ'
@@ -29,7 +30,7 @@ paginate: 20
 #permalink: /:year/:title/
 #markdown: kramdown  #  [rdiscount, karkdown]
 markdown: kramdown  #  [rdiscount, karkdown]
-highlighter: pygments #  [rouge, pygments]
+highlighter: rouge #  [rouge, pygments]
 
 kramdown:
   input: GFM
@@ -39,8 +40,8 @@ kramdown:
     - smart
   enable_coderay: true
   syntax_highlighter: rouge
-  coderay:
-    coderay_line_numbers:  nil
+  syntax_highlighter_opts:
+    line_numbers:  nil
 
-gems: ['jekyll-paginate', 'jekyll-archives']
+plugins: ['jekyll-paginate', 'jekyll-archives']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png', '1.bundle_install.bat', '2.jekyll_bootstrap.bat']
