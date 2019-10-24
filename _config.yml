@@ -44,4 +44,4 @@ kramdown:
     line_numbers:  nil
 
 plugins: ['jekyll-paginate', 'jekyll-archives']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png', '1.bundle_install.bat', '2.jekyll_bootstrap.bat']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png', '1.bundle_install.bat', '2.jekyll_bootstrap.bat', '3.jekyll_publish.bat']
