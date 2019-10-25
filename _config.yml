@@ -5,6 +5,7 @@ url: 'https://tinyzzh.github.io'
 baseurl: "/"
 rooturl: ""
 google_analytics: 'UA-77019170-1'
+baidu_analytics: 'f5d72321042a4068a214bb314ca29e38'
 disqus_shortname: 'tinyzzh815'
 
 # timezone: '+0800' #"Asia/Shanghai"
