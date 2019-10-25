@@ -45,8 +45,6 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.baseurl }}feed.xml">
 
 {% if site.baidu_analytics %}
-<script>
-var _hmt=_hmt||[];(function(){var hm=document.createElement("script");hm.src="https://hm.baidu.com/hm.js?{{site.baidu_analytics}}";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(hm,s)})();
-</script>
+<script src="https://hm.baidu.com/hm.js?{{site.baidu_analytics}}"></script>
 {% endif %}
 </head>
